@@ -15,6 +15,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="460" height="200" src="https://github-readme-stats.vercel.app/api?username=brunotot&theme=slateorange&hide_border=true&include_all_commits=true&count_private=false">
-  <img width="460" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunotot&theme=slateorange&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=brunotot&theme=slateorange&hide_border=true&include_all_commits=true&count_private=false">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunotot&theme=slateorange&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
 </p>
