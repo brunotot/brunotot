@@ -1,8 +1,8 @@
 ## Passionate Software Developer
 
-- ⭐ specializes in Java Spring Boot & React
-- 🧑‍💼 boasts 3+ years of professional experience in Software Development
-- 📚 holds Bachelor's Degree in Computer Science
+- ⭐ specializes in Java (Spring Boot) & TypeScript (React)
+- 🧑‍💼 boasts 4+ years of professional experience in Software Development
+- 📚 owns a Bachelor's Degree in Computer Science
 - ♟️ when not busy coding, sits and plays chess like an old man
 
 ## 🌐 Socials
