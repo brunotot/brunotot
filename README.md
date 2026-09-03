@@ -6,21 +6,11 @@ Outside of software development, I enjoy playing chess.
 
 ## Socials
 
-- [Portfolio](https://brunotot.com/)
-- [LinkedIn](https://linkedin.com/in/btot)
-- [Stack Overflow](https://stackoverflow.com/users/14260355)
-- [Instagram](https://instagram.com/deeelpo98)
+[Portfolio](https://brunotot.com/) · [LinkedIn](https://linkedin.com/in/btot) · [Stack Overflow](https://stackoverflow.com/users/14260355) · [Instagram](https://instagram.com/deeelpo98)
 
 ## Tech Stack
 
-- [React](https://react.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [MUI](https://mui.com/)
-- [NPM](https://www.npmjs.com/)
-- [Java](https://www.java.com/)
-- [Spring Boot](https://spring.io/projects/spring-boot)
-- [Gradle](https://gradle.org/)
-- [Docker](https://www.docker.com/)
+[React](https://react.dev/) · [TypeScript](https://www.typescriptlang.org/) · [MUI](https://mui.com/) · [NPM](https://www.npmjs.com/) · [Java](https://www.java.com/) · [Spring Boot](https://spring.io/projects/spring-boot) · [Gradle](https://gradle.org/) · [Docker](https://www.docker.com/)
 
 ## GitHub Stats
 
