@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a full-stack software developer, profesionally delivering web apps since 2019, specializing in React, TypeScript, Java, and Spring Boot, with a strong focus on frontend development and software architecture.
+I'm a full-stack software developer, profesionally delivering web apps since 2020, specializing in React, TypeScript, Java, and Spring Boot, with a strong focus on frontend development and software architecture.
 
 I'm passionate about building scalable, maintainable applications, establishing clean development standards, and improving the entire software development lifecycle.
 
