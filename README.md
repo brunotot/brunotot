@@ -1,8 +1,12 @@
 ## About Me
 
-I'm a full-stack software developer specializing in React, TypeScript, Java, and Spring Boot. I've been developing software professionally since 2020 and hold a Bachelor's degree in Computer Science.
+I'm a full-stack software developer, profesionally delivering web apps since 2019, specializing in React, TypeScript, Java, and Spring Boot, with a strong focus on frontend development and software architecture.
 
-Outside of software development, I enjoy playing chess.
+I'm passionate about building scalable, maintainable applications, establishing clean development standards, and improving the entire software development lifecycle.
+
+Beyond writing code, I'm particularly interested in AI-driven development, automation, DevOps, and finding ways to make software engineering more efficient. I enjoy exploring new technologies, challenging existing approaches, and building tools that help developers work smarter.
+
+I believe great software isn't just about writing good code — it's about creating reliable systems, clear processes, and solutions that are easy to maintain and evolve.
 
 ## Socials
 
